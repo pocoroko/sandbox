@@ -1,0 +1,13 @@
+{
+  "config": {
+    "MD013": {
+      "line_length": 240,
+      "tables": false,
+      "code_blocks": false
+    },
+    "MD024": {
+      "siblings_only": true
+    },
+    "MD026": false
+  }
+}

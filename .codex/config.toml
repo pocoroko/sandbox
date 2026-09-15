@@ -1,0 +1,4 @@
+[mcp_servers.atlassian-rovo]
+url = "https://mcp.atlassian.com/v2/mcp"
+bearer_token_env_var = "ATLASSIAN_ROVO_API_KEY"
+enabled = true
